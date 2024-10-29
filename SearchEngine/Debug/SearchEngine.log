@@ -1,0 +1,13 @@
+﻿  SearchEngine.cpp
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(224,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(261,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(263,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(267,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(286,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\SearchEngine\SearchEngine.cpp(414,22): warning C4018: '<': signed/unsigned mismatch
+  SearchEngine.vcxproj -> C:\Users\ahmed\Desktop\C++ Programming Project\SearchEngine\Debug\SearchEngine.exe
